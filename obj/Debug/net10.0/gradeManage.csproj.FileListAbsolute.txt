@@ -1,0 +1,15 @@
+/home/jephlinn/c#Stuff/gradeManager/bin/Debug/net10.0/gradeManage
+/home/jephlinn/c#Stuff/gradeManager/bin/Debug/net10.0/gradeManage.deps.json
+/home/jephlinn/c#Stuff/gradeManager/bin/Debug/net10.0/gradeManage.runtimeconfig.json
+/home/jephlinn/c#Stuff/gradeManager/bin/Debug/net10.0/gradeManage.dll
+/home/jephlinn/c#Stuff/gradeManager/bin/Debug/net10.0/gradeManage.pdb
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.GeneratedMSBuildEditorConfig.editorconfig
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.AssemblyInfoInputs.cache
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.AssemblyInfo.cs
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.csproj.CoreCompileInputs.cache
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.sourcelink.json
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.dll
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/refint/gradeManage.dll
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.pdb
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/gradeManage.genruntimeconfig.cache
+/home/jephlinn/c#Stuff/gradeManager/obj/Debug/net10.0/ref/gradeManage.dll
